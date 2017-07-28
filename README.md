@@ -1,1 +1,1 @@
-# note-taking-app-test
+# note-taking-app
